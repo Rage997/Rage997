@@ -1,9 +1,7 @@
 ### Ciao! 👋 I'm Niccolò
 
 <p> 
-<a href="https://www.linkedin.com/in/niccol%C3%B2-zuppichini-16529a139/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-<a href="mailto:nick.zup@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-nick.zup@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nick.zup@gmail.com" /></a> 
+<a href="https://www.linkedin.com/in/niccol%C3%B2-zuppichini-16529a139/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nick.zup@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-nick.zup@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nick.zup@gmail.com" /></a> 
 </p>
 
 ### Github Stats
