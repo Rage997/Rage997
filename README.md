@@ -1,8 +1,20 @@
 ### Ciao! 👋 I'm Niccolò
 
 <p> 
-<a href="https://www.linkedin.com/in/niccol%C3%B2-zuppichini-16529a139/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nick.zup@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-nick.zup@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nick.zup@gmail.com" /></a> 
+<a href="https://www.linkedin.com/in/niccol%C3%B2-zuppichini-16529a139/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nick.zup@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-nick.zup@gmail.com-c14438?style=for-the-badge&logoColor=white&link=mailto:nick.zup@gmail.com" /></a> 
 </p>
+
+### About me :rocket:
+- 🤓  I am a Software Engineer
+- ❤️ I am passionate about **Mathematics, Deep Learning and Computer Graphics** 
+- 📜 BSc Informatics and MSc Computational Science
+- 📫 How to reach me: nick.zup@gmail.com
+- 🏠 Lugano(🇨🇭) 
+
+<!--
+### Current interestes 📚 
+-->
+ 
 
 ### Github Stats
 [![Niccolò's github stats](https://github-readme-stats.vercel.app/api?username=rage997&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
