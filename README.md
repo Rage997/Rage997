@@ -5,7 +5,7 @@
 </p>
 
 ### About me :rocket:
-- 🤓  I am a Software Engineer
+- 🤓  I am a Computer Scientist & Software Engineer
 - ❤️ I am passionate about **Mathematics, Deep Learning and Computer Graphics** 
 - 📜 BSc Informatics and MSc Computational Science
 - 📫 How to reach me: niccolo.zuppichini@gmail.com
