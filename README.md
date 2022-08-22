@@ -8,7 +8,7 @@
 - 🤓  I am a Software Engineer
 - ❤️ I am passionate about **Mathematics, Deep Learning and Computer Graphics** 
 - 📜 BSc Informatics and MSc Computational Science
-- 📫 How to reach me: nick.zup@gmail.com
+- 📫 How to reach me: niccolo.zuppichini@gmail.com
 - 🏠 Lugano(🇨🇭) 
 
 <!--
@@ -16,7 +16,7 @@
 -->
  
  #### Get in touch 📫
-- Mail: **nick.zup@gmail.com**
+- Mail: **niccolo.zuppichini@gmail.com**
 - Personal site: **[rage997.github.io](https://rage997.github.io/)**
 
 ### Github Stats
