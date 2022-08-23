@@ -20,7 +20,7 @@
 - Personal site: **[rage997.github.io](https://rage997.github.io/)**
 
 ### Github Stats
-![Niccolò's github stats](https://github-readme-stats.vercel.app/api?username=rage997&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Niccolò's github stats](https://github-readme-stats.vercel.app/api?username=rage997&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true)
 
 ### Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rage997.count_visitors)
