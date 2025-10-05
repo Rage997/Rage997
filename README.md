@@ -24,7 +24,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rage997&" alt="Rage997" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rage997&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rage997&layout=compact&theme=dark)
 
 ### Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=Rage997&style=flat&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=Rage997&style=flat&color=black)
