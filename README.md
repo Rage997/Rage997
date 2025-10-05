@@ -27,4 +27,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rage997&layout=compact&theme=dark&bg_color=000000)
 
 ### Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=Rage997&style=flat&color=black)
+![Visitor Count](https://komarev.com/ghpvc/?username=Rage997&style=flat)
