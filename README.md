@@ -22,5 +22,7 @@
 ### Github Stats
 ![Niccolò's github stats](https://github-readme-stats.vercel.app/api?username=rage997&show_icons=true&hi&theme=dark&count_private=true)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rage997&" alt="Rage997" />
+
 ### Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rage997&style=flat&color=blue)
