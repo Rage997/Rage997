@@ -22,7 +22,7 @@
 ### Github Stats
 ![Niccolò's github stats](https://github-readme-stats.vercel.app/api?username=rage997&show_icons=true&hi&theme=dark&count_private=true)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rage997&" alt="Rage997" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rage997&theme=tokyonight" alt="rage997" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rage997&layout=compact&theme=dark&bg_color=000000)
 
