@@ -4,6 +4,12 @@
 <a href="https://www.linkedin.com/in/niccol%C3%B2-zuppichini-16529a139/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:niccolo.zuppichini@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-niccolo.zuppichini@gmail.com-c14438?style=for-the-badge&logoColor=white&link=mailto:niccolo.zuppichini@gmail.com" /></a> 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Animation" src="images/breakout-light.svg" />
+</picture>
+
 ### About me :rocket:
 - 🤓 I am a Computer Scientist & Software Engineer
 - ❤️ I am passionate about **Computer Graphics, Computational Geometry and Deep Learning.** 
